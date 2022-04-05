@@ -1,1 +1,1 @@
-# Peer to Peer Hackathon
+# Peer to Peer Chat Hackathon
